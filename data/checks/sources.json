@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-novgorod",
+   "kind": "legislation",
+   "name": {
+    "en": "Novgorod Oblast: Official Internet Portal of Legal Information (region53)",
+    "ru": "Novgorod Oblast: Официальный интернет-портал правовой информации (region53)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region53",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/novgorod/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-novgorod-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
