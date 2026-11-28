@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Novgorod Oblast only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 05:42 UTC, Novgorod Oblast: Official Internet Portal of Legal Information (region53): 14 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 05:50 UTC, Novgorod Oblast: Official Internet Portal of Legal Information (region53): 14 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Novgorod Oblast: Official Internet Portal of Legal Information (region53)](http://publication.pravo.gov.ru/documents/block/region53) | `zakony-<year>/` | daily | 2026-11-27 05:42 UTC | no change | watched |
+| [Novgorod Oblast: Official Internet Portal of Legal Information (region53)](http://publication.pravo.gov.ru/documents/block/region53) | `zakony-<year>/` | daily | 2026-11-28 05:50 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:49](checks/2026-11.md#ru-pravo-novgorod-20261128t054938z) | pravo-novgorod | 14 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-27 05:41](checks/2026-11.md#ru-pravo-novgorod-20261127t054134z) | pravo-novgorod | 14 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 05:45](checks/2026-11.md#ru-pravo-novgorod-20261126t054539z) | pravo-novgorod | 14 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 06:19](checks/2026-11.md#ru-pravo-novgorod-20261125t061959z) | pravo-novgorod | 14 | 0 | 0 | 0 | 0 (0) | no change | — |
